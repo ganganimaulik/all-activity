@@ -23,6 +23,6 @@
     "**/*.tsx",
     "db/sequelize.ts",
     "db/models/Log.ts"
-  ],
+, "src/renderCellExpand.js"  ],
   "exclude": ["node_modules"]
 }
