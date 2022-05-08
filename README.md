@@ -7,7 +7,7 @@ Download/clone the repository:
 
  
 ```sh
-git clone https://github.com/ganganimaulik/cd-all-activity.git
+git clone https://github.com/ganganimaulik/all-activity.git
 cd all-activity
 ```
 
