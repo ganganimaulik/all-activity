@@ -24,7 +24,7 @@ npm run dev
 - sqlite3 is used to store the logs. so no complicated setup required to run project (just run above commands).
 - /db folder have the database file & configuration for sequelize.
 - /src folder have all react components, customHook and contextProvider used for this project.
-- /pages/index.js is the main page & /page/api have api routes as per next.js standards
+- /pages/index.js is the main page & /pages/api have api routes as per next.js standards
 - table uses server side pagination.
 
 
